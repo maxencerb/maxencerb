@@ -4,7 +4,7 @@
 		🟦⬜🟥 Bonjour, I'm Maxence 🟦⬜🟥
 	</h2>
 </div>
-	<img src="https://raw.githubusercontent.com/maxencerb/maxencerb/master/maxence-	2021.jpg"  alt="maxence raballand 2021" align="center"/>
+	<img src="https://raw.githubusercontent.com/maxencerb/maxencerb/master/maxence-	2021.webp"  alt="maxence raballand 2021"/>
 
 💻 Visit [my portfolio](https://maxenceraballand.com) for more info.
 
