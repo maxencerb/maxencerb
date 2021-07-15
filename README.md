@@ -1,7 +1,7 @@
 
 <div  align="center">
 	<h2>
-		🟦⬜🟥 Hi I'm Maxence 🟦⬜🟥
+		🟦⬜🟥 Bonjour, I'm Maxence 🟦⬜🟥
 	</h2>
 </div>
 	<img src="https://raw.githubusercontent.com/maxencerb/maxencerb/master/maxence-	2021.jpg"  alt="maxence raballand 2021" align="center"/>
