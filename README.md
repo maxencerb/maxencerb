@@ -14,7 +14,7 @@
 - Web - Next.js, React, Angular (+ universal)
 - Cloud - Google cloud, Firebase, Vercel, AWS
 - AI - Tensorflow, PyTorch
-- Languages - C#, C++, C, TypeScript, JavaScript, Python, Dart and Solidity.
+- Languages - C#, solidity, TypeScript (and js), Python, Dart, C and C++.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
