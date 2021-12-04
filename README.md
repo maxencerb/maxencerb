@@ -5,7 +5,9 @@
 	</h2>
 </div>
 
-![alt text](back.gif "Maxence Raballand 2021")
+<div  align="center">
+	<img src='back.gif'/>
+</div>
 
 💻 Visit [my portfolio](https://maxenceraballand.com) for more info.
 
