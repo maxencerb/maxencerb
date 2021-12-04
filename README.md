@@ -21,13 +21,13 @@
 
 👨‍🎓 &nbsp;&nbsp; Engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/).
 
-👨‍💻 &nbsp; Passionate coder, blockchain and AI enthusiast.
+👨‍💻 &nbsp; Passionate coder, blockchain and AI enthusiast / researcher.
 
 💻 &nbsp; Fullstack web and native platforms dev.
 
 👨‍💼 &nbsp;&nbsp; Entrepreneur : latest project [Emplettes](https://info.emplettes.app).
 
-🏂 &nbsp; Athletic 🎾🤾‍♀️.
+🏂 &nbsp; Athletic (Tennis, HandBall, Rowing)
 
 ### ✨ GitHub Stats
 
