@@ -5,7 +5,7 @@
 	</h2>
 </div>
 
-![alt text](https://raw.githubusercontent.com/maxencerb/maxencerb/master/maxence-2021.webp "Maxence Raballand 2021")
+![alt text](back.gif "Maxence Raballand 2021")
 
 💻 Visit [my portfolio](https://maxenceraballand.com) for more info.
 
