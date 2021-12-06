@@ -35,9 +35,7 @@
 
 ### ✨ GitHub Stats
 
-<a  href="https://github.com/maxencerb">
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=maxencerb&show_icons=true&theme=merko&count_private=true"  alt="maxence rb github stats"  />
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxencerb&theme=merko&layout=compact"  alt="mxencerb github top languages"  />
-</a>
 
 <br/>
