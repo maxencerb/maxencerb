@@ -6,7 +6,7 @@
 </div>
 
 <div  align="center">
-	<a href="https://maxenceraballand.com">
+	<a href="https://maxenceraballand.com" target="_blank">
 	<img src='back.gif'/>
 	</a>
 </div>
