@@ -29,7 +29,7 @@
 
 💻 &nbsp; Fullstack web and native platforms dev.
 
-👨‍💼 &nbsp;&nbsp; Entrepreneur : latest project [Emplettes](https://info.emplettes.app).
+👨‍💼 &nbsp;&nbsp; Entrepreneur.
 
 🏂 &nbsp; Athletic (Tennis, HandBall, Rowing)
 
