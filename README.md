@@ -15,7 +15,7 @@
 
 ### ✅ Main Skills
 
-- Web - Next.js, React, Angular (+ universal)
+- Web - Next.js, Vue.js, React, Angular (+ universal)
 - DeFi - Blockchain programming, web3dev and crypto markets
 - Cloud - Google cloud, Firebase, Vercel, AWS
 - AI - Tensorflow, PyTorch
