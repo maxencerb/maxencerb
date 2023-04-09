@@ -11,7 +11,7 @@
 	</a>
 </div>
 
-💻 Visit [my portfolio](https://maxenceraballand.com) for more info.
+💻 Visit [my portfolio](https://maxencerb.com) for more info.
 
 ### ✅ Main Skills
 
@@ -19,19 +19,19 @@
 - DeFi - Blockchain programming, web3dev and crypto markets
 - Cloud - Google cloud, Firebase, Vercel, AWS
 - AI - Tensorflow, PyTorch
-- Languages - C#, solidity, TypeScript (and js), Python, Dart, C and C++.
+- Languages - Rust, Cairo, C#, solidity, TypeScript (and js), Python, Dart, C and C++.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍🎓 &nbsp;&nbsp; Engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/).
+👨‍🎓 &nbsp;&nbsp; Engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/) and Finance Student at [Pace University, New York](https://www.pace.edu/).
 
 👨‍💻 &nbsp; Passionate coder, blockchain and AI enthusiast / researcher.
 
-💻 &nbsp; Fullstack web and native platforms dev.
+💻 &nbsp; Fullstack and native platforms dev.
 
 👨‍💼 &nbsp;&nbsp; Entrepreneur.
 
-🏂 &nbsp; Athletic (Tennis, HandBall, Rowing)
+🏂 &nbsp; Athletic (Skiing, Tennis, HandBall, Rowing)
 
 ### ✨ GitHub Stats
 
