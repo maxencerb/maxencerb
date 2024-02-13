@@ -1,10 +1,10 @@
 ### Hi there, I'm Maxence Raballand 👋🇫🇷
 
-<div  align="center">
-	<a href="https://maxencerb.com" target="_blank">
-	<img src='back.gif'/>
-	</a>
-</div>
+
+<a href="https://maxencerb.com" target="_blank">
+<img src='back.gif'/>
+</a>
+
 
 ### Hi there, I'm Maxence Raballand 👋
 
