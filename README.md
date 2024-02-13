@@ -1,36 +1,17 @@
+### Hi there, I'm Maxence Raballand 👋🇫🇷
 
 <div  align="center">
-	<h2>
-		🟦⬜🟥 Bonjour, I'm Maxence 🟦⬜🟥
-	</h2>
-</div>
-
-<div  align="center">
-	<a href="https://maxenceraballand.com" target="_blank">
+	<a href="https://maxencerb.com" target="_blank">
 	<img src='back.gif'/>
 	</a>
 </div>
 
-💻 Visit [my portfolio](https://maxencerb.com) for more info.
+### Hi there, I'm Maxence Raballand 👋
 
-### ✅ Main Skills
+I'm a Fullstack and Blockchain Engineer with a passion for new technologies and a continuous desire to learn. My expertise spans Smart contracts, back-end and front-end development, and finance. I contribute to projects like Mangrove, Stake DAO, Blackpool, and Ownest Staking showcasing my diverse skills in the field.
 
-- Web - Next.js, Vue.js, React, Angular (+ universal)
-- DeFi - Blockchain programming, web3dev and crypto markets
-- Cloud - Google cloud, Firebase, Vercel, AWS
-- AI - Tensorflow, PyTorch
-- Languages - Rust, Cairo, C#, solidity, TypeScript (and js), Python, Dart, C and C++.
+🔭 I'm currently expanding my knowledge in DeFi, finance, and programming through self-teaching, after gaining a solid foundation in algorithms, mathematics, and physics at ESILV and a business perspective at Pace University.
 
-### 👨🏻‍💻 &nbsp;About Me
+🌱 Learning and building are at the core of my journey. Join me as I explore the future of technology and finance.
 
-👨‍🎓 &nbsp;&nbsp; Engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/) and Finance Student at [Pace University, New York](https://www.pace.edu/).
-
-👨‍💻 &nbsp; Passionate coder, blockchain and AI enthusiast / researcher.
-
-💻 &nbsp; Fullstack and native platforms dev.
-
-👨‍💼 &nbsp;&nbsp; Entrepreneur.
-
-🏂 &nbsp; Athletic (Skiing, Tennis, HandBall, Rowing)
-
-<br/>
+📫 How to reach me: Visit [my website](https://maxencerb.com) for more about my work and to get in touch!
